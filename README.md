@@ -16,7 +16,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 # Sección 2
 
-![La imagen del **King**](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjCx5ugtNLhAhXrHDQIHfEcCvQQjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwjCx5ugtNLhAhXrHDQIHfEcCvQQjRx6BAgBEAU%26url%3Dhttps%253A%252F%252Fwww.vectorstock.com%252Froyalty-free-vector%252Fthe-king-crown-vector-20625134%26psig%3DAOvVaw30GA7xLwUUG0bbg-Zf0LWL%26ust%3D1555428340406691&psig=AOvVaw30GA7xLwUUG0bbg-Zf0LWL&ust=1555428340406691)
+![La imagen del **King**](tu_imagen.jpg)
 
 ## Subsección 2.1
 
