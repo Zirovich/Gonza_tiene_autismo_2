@@ -16,7 +16,7 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 # Sección 2
 
-Una oración que requiere una cita.[^pepe]
+Una oración que requiere una cita.[^pepe]. HOla como andas brother
 
 ![La imagen del **King**](tu_imagen.jpg)
 
@@ -24,4 +24,4 @@ Una oración que requiere una cita.[^pepe]
 
 
 
-[^pepe]: sta es mi primer nota a pie de página! Y un [LA CONCHA DE TU MADRE](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown).
+[^pepe]:Esta es mi primer nota a pie de página! Y un [LA CONCHA DE TU MADRE](https://programminghistorian.org/es/lecciones/escritura-sostenible-usando-pandoc-y-markdown).
